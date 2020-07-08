@@ -8,12 +8,12 @@ export const Skills = () => (
   <Wrapper id="about">
     <SkillsWrapper as={Container}>
       <Thumbnail>
-        <img src={dev} alt="I’m John and I’m a Backend & Devops engineer!" />
+        <img src={dev} alt="I’m Sean and I’m a Web Developer!" />
       </Thumbnail>
       <Details>
         <h1>Hi There!</h1>
         <p>
-          Welcome to my website.  
+          Welcome to my website.  I am a full stack web developer for hire.  Please contact me below!
         </p>
         <Button as={AnchorLink} href="#contact">
           Hire me
